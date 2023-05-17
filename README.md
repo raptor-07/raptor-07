@@ -5,6 +5,5 @@
 ## **About me** :
 
 - 👨‍🏭 **I'm an AI engineering undergrad, and a full stack developer tinkering with BlockChain** 
-- 👨‍💻 I’m currently working on my **System Design** and **Development Skills**.
-- 🤯 I’m currently learning Software Development **Architectures and Desgin patterns**
-- 👷 I love building **Products** and managing **Projects**!
+- 👨‍💻 I’m currently working on my **System Design, Architecture** and **Development Skills**.
+- 👷 I love building and managing **Products**!
